@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import StudentList from './StudentList';
-import { useState } from 'react';
 
 function App() {
   const students = [
